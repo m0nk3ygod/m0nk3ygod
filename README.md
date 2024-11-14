@@ -1,6 +1,6 @@
-# 👋 Hello, I'm SeungWon!
+# 👋 Hello, I'm Seungwon!
 
-안녕하세요! 저는 **정보 보안 전공 대학생**으로, **모의 해킹**과 **레드 팀** 활동에 관심이 많습니다. 시스템 보안부터 네트워크 해킹까지 폭넓은 보안 지식을 쌓아가며, 다양한 언어와 도구를 활용해 보안 전문가로 성장하고자 합니다. 🚀
+Welcome to my GitHub! I’m a college student majoring in **Information Security**, with a keen interest in **penetration testing** and **red teaming**. From system security to network hacking, I’m all about honing my skills and diving deep into the world of cybersecurity. 🚀
 
 ---
 
@@ -8,38 +8,48 @@
 - 🎓 **Major**: Information Security
 - 💻 **Languages**: Python, C, JavaScript
 - 🐧 **Platform**: Linux Power User
-- 🌐 **Networking**: 네트워크 구조와 보안에 대한 깊은 이해를 가지고 있습니다.
-- 💣 **Interest**: 시스템 해킹, 침투 테스트, 모의 해킹
-- 🎯 **Goal**: 사이버 보안 전문가로서 해킹 기술을 심도 있게 익히고 발전시키기
+- 🌐 **Networking**: Solid understanding of network architecture and security
+- 💣 **Passion**: System hacking, penetration testing, and ethical hacking
+- 🎯 **Goal**: To become a cybersecurity expert, mastering hacking techniques and contributing to the security field
 
 ---
 
 ## ⚙️ Skills and Tools
-- **Programming Languages**: 
-  - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-  - ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
-  - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-- **Operating Systems**: 
-  - Linux (Kali, Ubuntu), Windows
-- **Network Security**: 
-  - TCP/IP, 패킷 분석, 침투 테스트
-- **Tools**: Wireshark, Metasploit, Nmap, Burp Suite
+
+| Language      | Proficiency | Tools                     |
+|---------------|-------------|---------------------------|
+| **Python**    | ★★★★☆      | Jupyter Notebook, Flask   |
+| **C**         | ★★★★☆      | GCC, GDB                  |
+| **JavaScript**| ★★★★☆      | Node.js, React            |
+| **Linux**     | ★★★★★      | Kali Linux, Ubuntu        |
+| **Networking**| ★★★★☆      | Wireshark, Nmap, Metasploit |
+
+> 🔥 **Skills Overview**: Check out the chart below for a quick visual of my technical skills.
+
+![Skills Graph](https://github.com/your-username/your-repo/raw/main/skills-graph.png)
 
 ---
 
 ## 🌱 Current Learning
-- 📜 심화된 시스템 해킹과 취약점 분석
-- 📈 웹 서비스 보안 및 최신 해킹 기법
-- 📂 버그 바운티 및 CTF(해킹 대회) 참여
+- 📜 Advanced system hacking and vulnerability analysis
+- 📈 Web service security and modern hacking techniques
+- 📂 Participating in Bug Bounties and CTFs (Capture The Flag)
+
+---
+
+## 📊 Progress Overview
+Below is a graphical view of my progress across various areas I’m actively learning and improving.
+
+![Progress Overview](https://github.com/your-username/your-repo/raw/main/progress-overview.png)
 
 ---
 
 ## 🤝 Let's Connect
-- **GitHub**: [GitHub Profile](https://github.com/m0nk3ygod)
-- **Email**: m0nk3ygod.root@gmail.com
+- **GitHub**: [GitHub Profile](https://github.com/your-username)
+- **Email**: youremail@example.com
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile/)
 
 ---
 
-**꾸준히 성장하고, 미래의 보안 전문가로서 여러분과 함께 배우고 싶습니다! 🌐**
-
-## 이곳은 제가 공부한 것을 기록하기 위해 만들어진 GitHub입니다.
+**Constantly learning and growing, aspiring to make my mark in the cybersecurity world! 🌐**
+**This space is dedicated to my journey and growth in learning. 📘**
