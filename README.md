@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Seungwon!
+# 🐵 Hello, I'm Seungwon!
 
 Welcome to my GitHub! I’m a college student majoring in **Information Security**, with a keen interest in **penetration testing** and **red teaming**. From system security to network hacking, I’m all about honing my skills and diving deep into the world of cybersecurity. 🚀
 
