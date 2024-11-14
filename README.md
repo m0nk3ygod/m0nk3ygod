@@ -24,10 +24,6 @@ Welcome to my GitHub! I’m a college student majoring in **Information Security
 | **Linux**     | ★★★★★      | Kali Linux, Ubuntu        |
 | **Networking**| ★★★★☆      | Wireshark, Nmap, Metasploit |
 
-> 🔥 **Skills Overview**: Check out the chart below for a quick visual of my technical skills.
-
-![Skills Graph](https://github.com/m0nk3ygod/m0nk3ygod/raw/main/skills-graph.png)
-
 ---
 
 ## 🌱 Current Learning
@@ -37,17 +33,9 @@ Welcome to my GitHub! I’m a college student majoring in **Information Security
 
 ---
 
-## 📊 Progress Overview
-Below is a graphical view of my progress across various areas I’m actively learning and improving.
-
-![Progress Overview](https://github.com/your-username/your-repo/raw/main/progress-overview.png)
-
----
-
 ## 🤝 Let's Connect
-- **GitHub**: [GitHub Profile](https://github.com/your-username)
-- **Email**: youremail@example.com
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile/)
+- **GitHub**: [GitHub Profile](https://github.com/m0nk3ygod)
+- **Email**: m0nk3ygod.root@gmail.com
 
 ---
 
