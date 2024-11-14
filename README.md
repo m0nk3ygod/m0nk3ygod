@@ -26,7 +26,7 @@ Welcome to my GitHub! I’m a college student majoring in **Information Security
 
 > 🔥 **Skills Overview**: Check out the chart below for a quick visual of my technical skills.
 
-![Skills Graph](https://github.com/your-username/your-repo/raw/main/skills-graph.png)
+![Skills Graph](https://github.com/m0nk3ygod/m0nk3ygod/raw/main/skills-graph.png)
 
 ---
 
