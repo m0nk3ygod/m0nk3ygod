@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Your Name]!
+# 👋 Hello, I'm SeungWon!
 
 안녕하세요! 저는 **정보 보안 전공 대학생**으로, **모의 해킹**과 **레드 팀** 활동에 관심이 많습니다. 시스템 보안부터 네트워크 해킹까지 폭넓은 보안 지식을 쌓아가며, 다양한 언어와 도구를 활용해 보안 전문가로 성장하고자 합니다. 🚀
 
@@ -35,9 +35,8 @@
 ---
 
 ## 🤝 Let's Connect
-- **GitHub**: [GitHub Profile](https://github.com/your-username)
-- **Email**: youremail@example.com
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile/)
+- **GitHub**: [GitHub Profile](https://github.com/m0nk3ygod)
+- **Email**: m0nk3ygod.root@gmail.com
 
 ---
 
