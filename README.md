@@ -40,12 +40,13 @@ Welcome to my GitHub! I’m a college student majoring in **Information Security
 
 ---
 
-**Constantly learning and growing, aspiring to make my mark in the cybersecurity world! 🌐**
+**Constantly learning and growing, aspiring to make my mark in the cybersecurity world! 🌐**  
 **This space is dedicated to my journey and growth in learning. 📘**
 
 
-===
-# Korean
+---
+
+# 한국어
 # 🐵 안녕하세요, 저는 이승원입니다!
 
 제 GitHub에 오신 걸 환영합니다! 저는 **정보 보안**을 전공하는 대학생으로, **모의 해킹**과 **레드 팀** 활동에 큰 관심을 가지고 있습니다. 시스템 보안부터 네트워크 해킹까지, 보안 분야에서 실력을 갈고닦으며 깊이 있는 기술을 익히고자 노력하고 있습니다. 🚀
